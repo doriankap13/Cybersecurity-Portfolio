@@ -7,24 +7,38 @@ I am an aspiring cybersecurity professional currently developing my skills throu
 My portfolio includes practical projects focused on:
 
 🔐 Security auditing and compliance
+
 🚨 Incident response
+
 🌐 Network security
+
 🐧 Linux administration
+
 🔍 Risk assessment
+
 📂 Projects
+
 🔐 Security Audit & Compliance
+
 
 Security controls assessment and compliance analysis.
 
 Skills:
 
 Risk Assessment
+
 Security Controls
+
 GDPR
+
 PCI DSS
+
 SOC
+
 Least Privilege
+
 🚨 DDoS Incident Analysis
+
 
 Analysis of a DDoS attack using the NIST Cybersecurity Framework.
 
