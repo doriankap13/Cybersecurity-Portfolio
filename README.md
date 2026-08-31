@@ -1,66 +1,105 @@
-# Cybersecurity-Portfolio
-My cybersecurity portfolio containing practical projects in security auditing, incident response, network security and Linux administration.
+# 🛡️ Cybersecurity Portfolio
 
-👋 About Me
+Welcome to my cybersecurity portfolio.
 
-I am an aspiring cybersecurity professional currently developing my skills through the Google Cybersecurity Professional Certificate.
+This repository contains practical cybersecurity projects completed as part of my learning and professional development.
 
-My portfolio includes practical projects focused on:
+## 👋 About Me
 
-🔐 Security auditing and compliance
+I am an aspiring cybersecurity professional currently developing my technical skills through the Google Cybersecurity Professional Certificate.
 
-🚨 Incident response
+I am interested in:
 
-🌐 Network security
+- Security Operations Center (SOC)
+- Incident Response
+- Network Security
+- Security Auditing
+- Risk Management
+- Linux Security
 
-🐧 Linux administration
+## 🎯 Career Goal
 
-🔍 Risk assessment
+I am currently seeking an opportunity to start my career as a Junior Cybersecurity Specialist or Junior SOC Analyst.
 
-📂 Projects
+My goal is to continue developing practical skills in security monitoring, incident analysis, network security and system protection.
 
-🔐 Security Audit & Compliance
+## 📂 Projects
 
+### 🔐 Security Audit & Compliance
 
-Security controls assessment and compliance analysis.
+Security controls assessment focused on identifying security gaps and evaluating compliance requirements.
 
-Skills:
+**Topics covered:**
 
-Risk Assessment
+- Security Controls
+- Risk Assessment
+- GDPR
+- PCI DSS
+- SOC
+- Principle of Least Privilege
 
-Security Controls
+📁 Project: [Security Audit & Compliance](./Security-Audit-Compliance)
 
-GDPR
+---
 
-PCI DSS
+### 🚨 DDoS Incident Analysis
 
-SOC
+Analysis of a DDoS incident involving an ICMP flood attack using the NIST Cybersecurity Framework.
 
-Least Privilege
+**Topics covered:**
 
-🚨 DDoS Incident Analysis
+- Incident Response
+- Network Security
+- NIST Cybersecurity Framework
+- Firewall
+- IDS/IPS
+- Network Monitoring
 
+📁 Project: [DDoS Incident Analysis](./DDoS-Incident-Analysis)
 
-Analysis of a DDoS attack using the NIST Cybersecurity Framework.
+---
 
-Skills:
+### 🐧 Linux File Permissions
 
-Incident Response
-Network Security
-NIST CSF
-IDS/IPS
-Firewall
-🐧 Linux File Permissions
+Practical project focused on reviewing and managing file and directory permissions in Linux.
 
-Managing and auditing file permissions in Linux.
+**Tools and skills:**
 
-Skills:
+- Linux
+- Bash / Linux CLI
+- `ls -la`
+- `chmod`
+- Access Control
+- Principle of Least Privilege
 
-Linux
-Bash
-chmod
-ls -la
-Access Control
-🎯 Career Goal
+📁 Project: [Linux File Permissions](./Linux-File-Permissions)
 
-I am currently seeking opportunities to start my career as a Junior Cybersecurity Specialist or Junior SOC Analyst.
+---
+
+## 🛠️ Technical Skills
+
+- Linux
+- SQL
+- Network Security
+- Security Monitoring
+- Incident Response
+- Risk Assessment
+- Security Controls
+- Access Control
+
+## 🎓 Education & Training
+
+Currently completing the **Google Cybersecurity Professional Certificate** on Coursera.
+
+Completed courses include:
+
+- Foundations of Cybersecurity
+- Play It Safe: Manage Security Risks
+- Connect and Protect: Networks and Network Security
+- Tools of the Trade: Linux and SQL
+
+## 📫 Contact
+
+📍 Warsaw, Poland  
+💼 LinkedIn: *(add your LinkedIn link here)*  
+💻 GitHub: [doriankap13](https://github.com/doriankap13)
