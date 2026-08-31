@@ -1,5 +1,6 @@
 # Cybersecurity-Portfolio
 My cybersecurity portfolio containing practical projects in security auditing, incident response, network security and Linux administration.
+
 👋 About Me
 
 I am an aspiring cybersecurity professional currently developing my skills through the Google Cybersecurity Professional Certificate.
