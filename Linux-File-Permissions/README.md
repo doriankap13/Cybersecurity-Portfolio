@@ -20,7 +20,7 @@ The objective of this project was to analyze existing file permissions and modif
 ## Tools and Technologies
 
 - Linux
-- Bash / Linux CLI
+- Bash
 - `chmod`
 - `ls -la`
 
